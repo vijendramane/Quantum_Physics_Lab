@@ -28,4 +28,5 @@ difference = gps_time - surface_time
 
 print("\nDifference:", difference)
 
-#time dilation
+#time dilation via curvature of space
+
