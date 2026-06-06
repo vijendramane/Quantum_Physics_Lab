@@ -17,7 +17,7 @@ F = G \frac{m_1 m_2}{r^2}
 ]
   
 Where: 
-
+ 
 * (F) = Gravitational force
 * (G) = Gravitational constant
 * (m_1, m_2) = Masses of two objects
