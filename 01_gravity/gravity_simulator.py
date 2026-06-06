@@ -7,7 +7,7 @@ class CelestialBody:
     def __init__(self, name, mass):
         self.name = name
         self.mass = mass
-
+ 
 def gravitational_force(body1, body2, distance):
 
     return (
