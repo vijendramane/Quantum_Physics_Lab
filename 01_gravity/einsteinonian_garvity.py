@@ -7,7 +7,7 @@ M = 5.972e24          # Mass of Earth
 
 def time_dilation(radius):
     """
-    Calculates gravitational time dilation factor
+    Calculates gravitational time dilation factor 
     around a spherical body.
     """
 
