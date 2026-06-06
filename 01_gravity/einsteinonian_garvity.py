@@ -27,3 +27,5 @@ print("GPS Orbit Time Factor:", gps_time)
 difference = gps_time - surface_time
 
 print("\nDifference:", difference)
+
+#time dilation
