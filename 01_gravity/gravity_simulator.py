@@ -15,7 +15,7 @@ def gravitational_force(body1, body2, distance):
         body1.mass *
         body2.mass /
         distance**2
-    )
+    ) 
 
 earth = CelestialBody(
     "Earth",
