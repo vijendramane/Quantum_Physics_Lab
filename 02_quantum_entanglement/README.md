@@ -14,7 +14,7 @@ If one particle is measured, information about the other particle becomes immedi
 
 This behavior appears strange because it seems to connect particles across vast distances.
 
----
+--- 
 
 ## What is Quantum Entanglement?
 
