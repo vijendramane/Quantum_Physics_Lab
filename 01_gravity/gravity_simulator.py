@@ -36,3 +36,5 @@ force = gravitational_force(
 )
 
 print(f"Earth-Moon Force: {force:.2e} N")
+
+# how the actuall garvity works
