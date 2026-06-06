@@ -1,9 +1,7 @@
-# Quantum_Physics_Lab
-A collection of computational physics simulations, numerical methods, quantum mechanics models, and scientific visualizations built with Python.
 
-# Computational Physics
+# Quantum Physics
 
-A growing collection of computational physics projects, simulations, numerical methods, and scientific visualizations implemented from scratch using Python.
+A growing collection of quantum physics projects, simulations, numerical methods, and scientific visualizations implemented from scratch using Python.
 
 This repository explores physics through code, covering topics from classical mechanics and electromagnetism to relativity, quantum mechanics, and quantum computing.
 
