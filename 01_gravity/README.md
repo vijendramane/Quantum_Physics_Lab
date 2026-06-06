@@ -11,7 +11,7 @@ Interestingly, although gravity is something we experience every day, physicists
 ---
   
 ## Newton's Theory of Gravity
-
+ 
 In 1687, Sir Isaac Newton proposed the Law of Universal Gravitation.
 
 [
