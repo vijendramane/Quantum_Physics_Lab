@@ -2,7 +2,7 @@ import math
 
 # Constants
 G = 6.67430e-11       # Gravitational constant
-c = 299792458         # Speed of light
+c = 299792458         # Speed of light 
 M = 5.972e24          # Mass of Earth
 
 def time_dilation(radius):
