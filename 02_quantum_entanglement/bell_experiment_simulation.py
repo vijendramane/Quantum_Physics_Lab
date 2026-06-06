@@ -3,7 +3,7 @@ import random
 trials = 1000
 
 same_results = 0 
-
+ 
 for _ in range(trials):
 
     particle_a = random.choice([0, 1])
