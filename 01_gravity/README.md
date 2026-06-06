@@ -9,7 +9,7 @@ Gravity is one of the four fundamental forces of nature and is responsible for k
 Interestingly, although gravity is something we experience every day, physicists still do not fully understand its deepest nature. We have theories that describe gravity with incredible accuracy, but the fundamental question of *what gravity actually is* remains one of the biggest mysteries in science.
 
 ---
- 
+  
 ## Newton's Theory of Gravity
 
 In 1687, Sir Isaac Newton proposed the Law of Universal Gravitation.
