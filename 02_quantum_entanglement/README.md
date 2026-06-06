@@ -10,7 +10,7 @@ Albert Einstein famously referred to it as:
 
 Entanglement occurs when two or more quantum particles become connected in such a way that their properties are linked, regardless of the distance separating them.
  
-If one particle is measured, information about the other particle becomes immediately known.
+If one particle is measured, information about the other particle becomes immediately known. 
  
 This behavior appears strange because it seems to connect particles across vast distances.
 
