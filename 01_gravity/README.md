@@ -2,8 +2,8 @@
 
 ## Introduction
  
-Gravity is one of the four fundamental forces of nature and is responsible for keeping planets in orbit, causing objects to fall toward Earth, and shaping the structure of the universe.
-
+Gravity is one of the four fundamental forces of nature and is responsible for keeping planets in orbit, causing objects to fall towa rd Earth, and shaping the structure of the universe.
+ 
 Interestingly, although gravity is something we experience every day, physicists still do not fully understand its deepest nature. We have theories that describe gravity with incredible accuracy, but the fundamental question of *what gravity actually is* remains one of the biggest mysteries in science.
 
 ---
