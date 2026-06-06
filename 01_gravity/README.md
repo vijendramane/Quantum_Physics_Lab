@@ -15,7 +15,7 @@ In 1687, Sir Isaac Newton proposed the Law of Universal Gravitation.
 [
 F = G \frac{m_1 m_2}{r^2}
 ]
- 
+  
 Where: 
 
 * (F) = Gravitational force
