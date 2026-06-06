@@ -10,7 +10,7 @@ def time_dilation(radius):
     Calculates gravitational time dilation factor 
     around a spherical body.
     """
-
+ 
     return math.sqrt(
         1 - (2 * G * M) / (radius * c**2)
     )
