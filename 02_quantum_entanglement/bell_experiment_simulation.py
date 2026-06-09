@@ -1,6 +1,6 @@
 import random
 
-trials = 1000
+trials = 1000 
 
 same_results = 0 
  
