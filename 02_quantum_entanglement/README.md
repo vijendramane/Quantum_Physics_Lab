@@ -1,8 +1,8 @@
 # 02 - Quantum Entanglement
 
-## Introduction
+## Introduction 
 
-Quantum Entanglement is one of the most fascinating and mysterious phenomena in modern physics.
+Quantum Entanglement is one of the most fascinating and mysterious phenomena in modern physics.   
 
 Albert Einstein famously referred to it as:
  
