@@ -4,7 +4,7 @@
  
 Quantum Entanglement is one of the most fascinating and mysterious phenomena in modern physics.   
  
-Albert Einstein famously referred to it as:
+Albert Einstein famously referred to it as: 
  
 > "Spooky action at a distance."  
 
