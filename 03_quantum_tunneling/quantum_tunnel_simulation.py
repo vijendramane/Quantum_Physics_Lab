@@ -3,7 +3,7 @@ import random
 particles = 1000
 tunneling_probability = 0.15
 
-tunneled = 0 
+tunneled = 0  
  
 for _ in range(particles):
 
