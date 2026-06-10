@@ -4,7 +4,7 @@ particles = 1000
 tunneling_probability = 0.15
 
 tunneled = 0
-
+ 
 for _ in range(particles):
 
     if random.random() < tunneling_probability:
