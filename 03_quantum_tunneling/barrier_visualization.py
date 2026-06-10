@@ -9,7 +9,7 @@ particle_energy = np.ones_like(x) * 5
 
 plt.figure(figsize=(10, 5))
 plt.plot(x, barrier, label="Barrier Height")
-plt.plot(x, particle_energy, label="Particle Energy")
+plt.plot(x, particle_energy, label="Particle Energy") 
 
 plt.title("Quantum Tunneling Concept")
 plt.xlabel("Position")
