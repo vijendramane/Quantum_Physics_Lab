@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 x = np.linspace(0, 10, 1000)
 
-barrier = np.where((x >= 4) & (x <= 6), 8, 0) 
+barrier = np.where((x >= 4) & (x <= 6), 8, 0)
 
 particle_energy = np.ones_like(x) * 5
 
