@@ -7,7 +7,7 @@ The Double Slit Experiment is one of the most important experiments in the histo
 It demonstrated that matter and light do not behave strictly as particles or strictly as waves.
 
 Instead, quantum objects can exhibit properties of both.
-
+ 
 The experiment played a major role in the development of modern quantum mechanics.
 
 ---
