@@ -7,7 +7,7 @@ Although they appear like "holes" in space, black holes are actually extremely c
 
 Black holes are predicted by Albert Einstein's General Theory of Relativity and have been confirmed through astronomical observations.
  
-What is a Black Hole?
+What is a black Holes?s
 
 A black hole is a region of spacetime where gravity is so powerful that the escape velocity exceeds the speed of light.
 
