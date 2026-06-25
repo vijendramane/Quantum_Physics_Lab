@@ -1,5 +1,5 @@
 05 - Black Holes
-Introduction 
+Introduction
 
 Black holes are among the most fascinating and mysterious objects in the universe. They represent regions of spacetime where gravity becomes so strong that nothing—not even light—can escape once it crosses a certain boundary.
 
