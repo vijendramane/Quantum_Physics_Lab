@@ -1,7 +1,7 @@
 """
 Escape Velocity Calculator
 """
-
+ 
 import math
  
 G = 6.67430e-11
