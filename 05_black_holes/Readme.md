@@ -186,4 +186,3 @@ Time flows more slowly near black holes.
 Black holes can slowly evaporate through Hawking Radiation.
 Black holes are among the most extreme environments in the universe.
 
-Black holes continue to be one of the greatest laboratories for testing the laws of physics, helping scientists explore gravity, quantum mechanics, and the evolution of the universe.
