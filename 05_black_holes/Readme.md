@@ -168,7 +168,7 @@ Computes escape velocity for planets and black holes.
 
 gravitational_time_dilation.py
 
-Demonstrates how gravity slows time.
+
 
 hawking_temperature.py
 
