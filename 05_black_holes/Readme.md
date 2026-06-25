@@ -176,8 +176,6 @@ Calculates Hawking radiation temperature.
 
 black_hole_visualization.py
 
-Visualizes the event horizon and gravitational influence.
-
 Key Takeaways
 Black holes are predicted by General Relativity.
 Gravity near black holes is so strong that light cannot escape.
