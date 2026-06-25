@@ -6,7 +6,7 @@ Black holes are among the most fascinating and mysterious objects in the univers
 Although they appear like "holes" in space, black holes are actually extremely compact objects formed when massive stars collapse under their own gravity.
 
 Black holes are predicted by Albert Einstein's General Theory of Relativity and have been confirmed through astronomical observations.
-
+ 
 What is a Black Hole?
 
 A black hole is a region of spacetime where gravity is so powerful that the escape velocity exceeds the speed of light.
