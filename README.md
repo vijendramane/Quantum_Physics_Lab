@@ -1,4 +1,4 @@
-# 07 - Exoplanets
+# 06 - Exoplanets
 
 ## Introduction
 
