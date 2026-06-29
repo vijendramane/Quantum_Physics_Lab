@@ -1,6 +1,6 @@
 """
 Star Light Curve
-""" 
+"""  
 
 import numpy as np
 import matplotlib.pyplot as plt
