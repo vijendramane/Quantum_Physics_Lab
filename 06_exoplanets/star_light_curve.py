@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 time = np.linspace(0, 50, 500)
 
-brightness = (
+brightness = ( 
     1
     - 0.02 *
     np.exp(
