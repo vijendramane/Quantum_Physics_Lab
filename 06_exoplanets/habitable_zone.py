@@ -1,6 +1,6 @@
 """
 Habitable Zone Calculator
-  
+
 Calculates the inner and outer
 habitable zone boundaries.
 """
