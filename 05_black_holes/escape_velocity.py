@@ -4,7 +4,7 @@ Escape Velocity Calculator
  
 import math
   
-G = 6.67430e-11
+G = 6.67430e-11 
 
 def escape_velocity(mass, radius):
     return math.sqrt((2 * G * mass) / radius)
