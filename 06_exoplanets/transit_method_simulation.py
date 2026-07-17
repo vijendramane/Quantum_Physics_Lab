@@ -3,7 +3,7 @@ Transit Method Simulation
 """
 
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as 
 
 time = np.linspace(0, 100, 1000)
 
