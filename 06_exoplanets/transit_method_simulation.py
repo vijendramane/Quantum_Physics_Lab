@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as 
 
 time = np.linspace(0, 100, 1000)
-
+ 
 brightness = np.ones_like(time)
 
 brightness[450:550] = 0.98
