@@ -13,6 +13,7 @@ brightness[450:550] = 0.98
 
 plt.plot(time, brightness)
 
+
 plt.title(
     "Exoplanet Transit Detection"
 )
