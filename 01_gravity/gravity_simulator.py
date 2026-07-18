@@ -8,7 +8,7 @@ class CelestialBody:
         self.name = name
         self.mass = mass
  
-def gravitational_force(body1, body2, distance):
+def gravitational_force(body1, body2, distance): 
 
     return (
         G *
