@@ -3,7 +3,7 @@ import random
 def measure_entangled_pair():
     
     result = random.choice([0, 1])
-
+ 
     particle_a = result
     particle_b = result
 
