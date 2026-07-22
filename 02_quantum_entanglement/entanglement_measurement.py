@@ -8,7 +8,7 @@ def measure_entangled_pair():
     particle_b = result
 
     return particle_a, particle_b
-
+ 
 for i in range(10):
     
     a, b = measure_entangled_pair()
