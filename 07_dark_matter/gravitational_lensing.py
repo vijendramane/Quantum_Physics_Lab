@@ -3,7 +3,7 @@ Simple Gravitational Lensing Visualization
 """
 
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 theta = np.linspace(0,2*np.pi,300)
 
