@@ -1,6 +1,6 @@
 """
 Galaxy Mass Estimator
-"""
+""" 
 
 G = 6.67430e-11
  
