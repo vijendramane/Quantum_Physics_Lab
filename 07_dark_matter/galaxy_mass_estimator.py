@@ -3,7 +3,7 @@ Galaxy Mass Estimator
 """
 
 G = 6.67430e-11
-
+ 
 velocity = 220000      # m/s
 
 radius = 50000 * 9.461e15
