@@ -9,7 +9,7 @@ C = 299792458
 
 earth_mass = 5.972e24
 earth_radius = 6_371_000
-
+ 
 
 def time_dilation(mass, radius):
 
