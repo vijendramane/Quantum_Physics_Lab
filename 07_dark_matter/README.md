@@ -1,6 +1,6 @@
 Introduction
 
-Dark Matter is one of the greatest mysteries in modern astrophysics.
+Dark Matter is one of the greatest mysteries in modern astrophysics. 
 
 Although we cannot directly observe it, astronomers have found overwhelming evidence that a large amount of invisible matter exists throughout the universe.
 
