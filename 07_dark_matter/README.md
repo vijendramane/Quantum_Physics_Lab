@@ -13,7 +13,7 @@ Instead, observations show that stars near the edges of galaxies move almost as 
 This unexpected behavior suggests the presence of an invisible form of matter known as Dark Matter.
 
 Current estimates indicate that:
-
+ 
 Ordinary Matter ≈ 5%
 Dark Matter ≈ 27%
 Dark Energy ≈ 68%
