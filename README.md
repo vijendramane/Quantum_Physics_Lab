@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Exoplanets are planets that orbit stars outside our Solar system.
+Exoplanets are planets that orbit stars outside our Solar system. 
 
 The word "exoplanet" means "extrasolar planet."
 
