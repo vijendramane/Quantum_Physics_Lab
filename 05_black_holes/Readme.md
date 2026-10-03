@@ -14,7 +14,7 @@ A black hole is a region of spacetime where gravity is so powerful that the esca
 Since nothing can travel faster than light, anything crossing the boundary of a black hole becomes trapped.
 
 This includes:
-
+ 
 Matter
 Light
 Radiation
