@@ -4,7 +4,7 @@ Gravitational Time Dilation
  
 import math
  
-G = 6.67430e-11
+G = 6.67430e-11 
 C = 299792458 
 
 earth_mass = 5.972e24
