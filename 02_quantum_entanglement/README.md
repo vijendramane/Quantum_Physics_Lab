@@ -7,7 +7,7 @@ Quantum Entanglement is one of the most fascinating and mysterious phenomena in 
 Albert Einstein famously referred to it as: 
 
 > "Spooky action at a distance."   meta
- 
+  
 Entanglement occurs when two or more quantum particles become connected in such a way that their properties are linked, regardless of the distance separating them.  
  
 If one particle is measured, information about the other particle becomes immediately known. 
