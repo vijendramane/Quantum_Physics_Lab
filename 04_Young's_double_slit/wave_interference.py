@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 x = np.linspace(0, 20, 1000)
 
-wave1 = np.sin(x)
+wave1 = np.sin(x) 
 wave2 = np.sin(x + np.pi/2)
 
 interference = wave1 + wave2
