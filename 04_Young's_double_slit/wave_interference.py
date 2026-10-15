@@ -12,7 +12,7 @@ plt.figure(figsize=(10, 5))
 plt.plot(x, wave1, label="Wave 1")
 plt.plot(x, wave2, label="Wave 2")
 plt.plot(x, interference, label="Interference")
-
+ 
 plt.title("Wave Interference")
 plt.xlabel("Position")
 plt.ylabel("Amplitude")
