@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 fig, ax = plt.subplots(figsize=(6,6))
 
 # Event Horizon
-event_horizon = plt.Circle(
+event_horizon = plt.Circle( 
     (0,0),
     1,
     color="black",
