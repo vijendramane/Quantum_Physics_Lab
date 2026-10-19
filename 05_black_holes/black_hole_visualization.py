@@ -8,7 +8,7 @@ event_horizon = plt.Circle(
     1,
     color="black",
     label="Event Horizon"
-)
+) 
 
 # Accretion Disk
 disk = plt.Circle(
