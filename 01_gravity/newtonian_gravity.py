@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np  
 import matplotlib.pyplot as plt
 
 G = 6.67430e-11
