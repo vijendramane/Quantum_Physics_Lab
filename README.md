@@ -5,7 +5,7 @@
 Exoplanets are planets that orbit stars outside our Solar system. 
 
 The word "exoplanet" means "extrasolar planet."
-
+ 
 Since the first confirmed discovery in 1992, astronomers have identified thousands of exoplanets throughout the Milky Way Galaxy.
 
 Some exoplanets are rocky worlds similar to Earth, while others are massive gas giants larger than Jupiter.
