@@ -11,7 +11,7 @@ Since the first confirmed discovery in 1992, astronomers have identified thousan
 Some exoplanets are rocky worlds similar to Earth, while others are massive gas giants larger than Jupiter. 
 
 The search for exoplanets is one of the most exciting fields in modern astronomy because it helps answer a fundamental question:
-
+ 
 **Are we alone in the universe?**
 
 ---
