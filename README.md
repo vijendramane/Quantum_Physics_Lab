@@ -1,6 +1,6 @@
 
 
-## Introduction
+## Introduction 
  
 Exoplanets are planets that orbit stars outside our Solar system. 
   
